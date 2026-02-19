@@ -1,5 +1,6 @@
 # 📊 Retail Customer Shopping Trends Analysis  
 ### End-to-End Data Analytics Project (SQL | Python | Power BI)
+<img width="1348" height="726" alt="Screenshot 2026-02-19 202123" src="https://github.com/user-attachments/assets/c019951c-8a99-4aab-b7c8-6d83a933dbfa" />
 
 ---
 
